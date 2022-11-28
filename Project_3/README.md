@@ -1,23 +1,22 @@
 # <center> Проект: Предсказание рейтинга отеля
 
 ##  <center> Оглавление
-[1. Описание проекта]()
+[1. Описание проекта](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-1-описание-проекта)
 
-[2. Цель проекта]()
+[2. Цель проекта](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-2-цель-проекта)
 
-[3. Краткая информация о данных]()
+[3. Краткая информация о данных](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-3-краткая-информация-о-данных)
 
-[4. Этапы работы над проектом]()
+[4. Этапы работы над проектом](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-4-этапы-работы-над-проектом)
 
-[5. Результат]()
+[5. Результат](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-5-результат)
 
-[6. Выводы]()
+[6. Выводы](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-6-выводы)
 
 ###  <center> 1. Описание проекта
 Представьте, что Вы работаете дата-сайентистом в компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.
 
-:arrow_up: [к оглавлению]()
-
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-оглавление)
 
 ###  <center> 2. Цель проекта
 Необходимо построить модель на основе алгоритмов машинного обучения, которая предсказывает рейтинг отеля.
@@ -38,6 +37,8 @@
 * выполнить подготовку данных, которые будут использованы для * обучения модели
 * проверить эффективность предлагаемой модели, используя метрику MAPE
 * принять участие в соревнованиях на площадке kaggle.com Перейдите по этой ссылке для доступа [к закрытому соревнованию на Kaggle](https://www.kaggle.com/t/cb7841e866d743f6843848ce328b0034)
+
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-оглавление)
 
 ###  <center> 3. Краткая информация о данных
 Первоначальная версия датасета содержит 17 полей со следующей информацией:
@@ -60,6 +61,8 @@
 * lat — географическая широта отеля;
 * lng — географическая долгота отеля.
 
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-оглавление)
+
 ###  <center> 4. Этапы работы над проектом
 Наш проект состоит из четырёх частей:
 1. Знакомство с входными данными
@@ -67,7 +70,7 @@
 3. Подготовка данных, которые будут использованы для обучения модели
 4. Проверка эффективности предлагаемой модели, используя метрику MAPE
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-оглавление)
 
 ###  <center> 5. Результат
 - Выполнен базовый анализ структуры данных
@@ -77,9 +80,9 @@
 - Модель использована для предсказания рейтинга отелей
 - Выполнено сравнение полученных значений с фактическими на основе метрики Mean Absolute Percentage Error (MAPE)
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-оглавление)
 
 ###  <center> 6. Выводы
 В результате проведённой работы мы молучили значительное улучшение метрики МАРЕ. 
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/SkillF_ds/tree/SkillFD/Project_3#-оглавление)
